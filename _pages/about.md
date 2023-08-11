@@ -1,15 +1,14 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
     <p>410 Pin Oak Drive NW</p>
     <p>Christiansburg, VA 24073</p>
 
@@ -19,8 +18,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hey There!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm Joshua Hoegerman
 
-test
+I am a MS student at the Department of Mechanical Engineering, Virginia Tech, USA. Presently, I am working in the domain of Human-Robot Interaction at Collaborative Robotics Lab (Collab) at Virginia Tech under the guidance of Dr. Dylan Losey .
+
+
+I completed my Bachelors in Mechanical Engineering with minor in Robotics and Mechatronic Systems at here at Virginia Tech in 2022. During my Bachelors, I was working under the supervision of two undergraduate research teams, one under Dr. Erik Komendera within the FASER Lab and the other under Dr. Steven Southward with VT AutoDrive Team.
+
+My research interests include Shared-Autonomy and the mixture of Human-Robot Control, and am forever looking for opportunities to expand my knowledge in these ever-evolving fields.
