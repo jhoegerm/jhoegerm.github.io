@@ -6,7 +6,7 @@ subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: left
-  image: sam_3.jpg
+  image: Self.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>410 Pin Oak Drive NW</p>
