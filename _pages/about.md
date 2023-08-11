@@ -8,12 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>Address: 410 Pin Oak Drive NW</p>
-    <p>Christiansburg, VA 24073</p>
-    <p>Phone: (757)-272-4542 </p>
-    <p>Email:jhoegerm@vt.edu </p>
-
+  address: 
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
