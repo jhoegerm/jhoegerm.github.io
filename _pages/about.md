@@ -20,8 +20,6 @@ social: true  # includes social icons at the bottom of the page
 
 Hey There!
 
-I'm Joshua Hoegerman
-
 I am a MS student at the Department of Mechanical Engineering, Virginia Tech, USA. Presently, I am working in the domain of Human-Robot Interaction at Collaborative Robotics Lab (Collab) at Virginia Tech under the guidance of Dr. Dylan Losey .
 
 
